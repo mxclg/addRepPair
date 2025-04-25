@@ -1,0 +1,1 @@
+export const espansoConfigBase = "/Users/mxclg/Library/Application Support/espanso/match/base.yml";

@@ -1,0 +1,16 @@
+{
+  "name": "addreppare",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mxclg",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "yaml": "^2.7.1"
+  }
+}
