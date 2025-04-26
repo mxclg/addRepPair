@@ -12,5 +12,14 @@
   "description": "",
   "dependencies": {
     "yaml": "^2.7.1"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^1.8.1",
+    "@eslint/js": "^9.25.1",
+    "@stylistic/eslint-plugin": "^4.2.0",
+    "eslint": "^9.25.1",
+    "eslint-config-prettier": "^10.1.2",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3"
   }
 }
